@@ -11,7 +11,7 @@
 </head>
 <body ng-app="myApp" ng-controller="MyController">
 	<h1> Hello nhân</h1>
-
+	<?php echo "123" ?>
 
 
 	<script type="text/javascript" src="vendor/bootstrap.js"></script>  
